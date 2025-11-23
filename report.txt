@@ -1,0 +1,36 @@
+Plotted to 'E:\IIT PALAKKAD\SEM V ARCHIVES\OELP\Multi_daq-F_Cu.gbr'.
+Plotted to 'E:\IIT PALAKKAD\SEM V ARCHIVES\OELP\Multi_daq-B_Cu.gbr'.
+Plotted to 'E:\IIT PALAKKAD\SEM V ARCHIVES\OELP\Multi_daq-F_Paste.gbr'.
+Plotted to 'E:\IIT PALAKKAD\SEM V ARCHIVES\OELP\Multi_daq-B_Paste.gbr'.
+Plotted to 'E:\IIT PALAKKAD\SEM V ARCHIVES\OELP\Multi_daq-F_Silkscreen.gbr'.
+Plotted to 'E:\IIT PALAKKAD\SEM V ARCHIVES\OELP\Multi_daq-B_Silkscreen.gbr'.
+Plotted to 'E:\IIT PALAKKAD\SEM V ARCHIVES\OELP\Multi_daq-F_Mask.gbr'.
+Plotted to 'E:\IIT PALAKKAD\SEM V ARCHIVES\OELP\Multi_daq-B_Mask.gbr'.
+Plotted to 'E:\IIT PALAKKAD\SEM V ARCHIVES\OELP\Multi_daq-Edge_Cuts.gbr'.
+Created Gerber job file 'E:\IIT PALAKKAD\SEM V ARCHIVES\OELP\Multi_daq-job.gbrjob'.
+Info: Done.
+Plotted to 'E:\IIT PALAKKAD\SEM V ARCHIVES\OELP\Multi_daq-F_Cu.gbr'.
+Plotted to 'E:\IIT PALAKKAD\SEM V ARCHIVES\OELP\Multi_daq-B_Cu.gbr'.
+Plotted to 'E:\IIT PALAKKAD\SEM V ARCHIVES\OELP\Multi_daq-F_Paste.gbr'.
+Plotted to 'E:\IIT PALAKKAD\SEM V ARCHIVES\OELP\Multi_daq-B_Paste.gbr'.
+Plotted to 'E:\IIT PALAKKAD\SEM V ARCHIVES\OELP\Multi_daq-F_Silkscreen.gbr'.
+Plotted to 'E:\IIT PALAKKAD\SEM V ARCHIVES\OELP\Multi_daq-B_Silkscreen.gbr'.
+Plotted to 'E:\IIT PALAKKAD\SEM V ARCHIVES\OELP\Multi_daq-F_Mask.gbr'.
+Plotted to 'E:\IIT PALAKKAD\SEM V ARCHIVES\OELP\Multi_daq-B_Mask.gbr'.
+Plotted to 'E:\IIT PALAKKAD\SEM V ARCHIVES\OELP\Multi_daq-Edge_Cuts.gbr'.
+Created Gerber job file 'E:\IIT PALAKKAD\SEM V ARCHIVES\OELP\Multi_daq-job.gbrjob'.
+Info: Done.
+Plotted to 'E:\KIcad projects\Multi_daq\Multi_daq-F_Cu.gbr'.
+Plotted to 'E:\KIcad projects\Multi_daq\Multi_daq-B_Cu.gbr'.
+Plotted to 'E:\KIcad projects\Multi_daq\Multi_daq-F_Paste.gbr'.
+Plotted to 'E:\KIcad projects\Multi_daq\Multi_daq-B_Paste.gbr'.
+Plotted to 'E:\KIcad projects\Multi_daq\Multi_daq-F_Silkscreen.gbr'.
+Plotted to 'E:\KIcad projects\Multi_daq\Multi_daq-B_Silkscreen.gbr'.
+Plotted to 'E:\KIcad projects\Multi_daq\Multi_daq-F_Mask.gbr'.
+Plotted to 'E:\KIcad projects\Multi_daq\Multi_daq-B_Mask.gbr'.
+Plotted to 'E:\KIcad projects\Multi_daq\Multi_daq-Edge_Cuts.gbr'.
+Created Gerber job file 'E:\KIcad projects\Multi_daq\Multi_daq-job.gbrjob'.
+Info: Done.
+Info: Done.
+Info: Done.
+Info: Done.

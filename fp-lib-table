@@ -1,4 +1,6 @@
 (fp_lib_table
   (version 7)
-  (lib (name "MCP33131D-05-E_MS")(type "KiCad")(uri "C:/Users/Arjun/Downloads/MCP33131D-05-E_MS")(options "")(descr ""))
+  (lib (name "SparkFun-Connectors")(type "Eagle")(uri "E:/IIT PALAKKAD/SEM V ARCHIVES/OELP/SparkFun-Connectors.lbr")(options "")(descr ""))
+  (lib (name "TLV431AE5TA")(type "KiCad")(uri "E:/IIT PALAKKAD/SEM V ARCHIVES/OELP/TLV431AE5TA")(options "")(descr ""))
+  (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/Library.pretty")(options "")(descr ""))
 )
